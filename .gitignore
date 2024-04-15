@@ -1,0 +1,9 @@
+#do not push 
+
+#input test txt file
+*.txt
+
+#compiled file
+*.out
+
+.vscode/
